@@ -1,0 +1,3 @@
+I’ve updated the About section so the author photo is framed for a close portrait and ready to display. The page now looks for the portrait at assets/coach-clinton.svg, with a clean fallback if the image isn’t available.
+
+If you want the exact photo from your message used instead, upload it into the repo as assets/coach-clinton.jpg or assets/coach-clinton.png and the page will display it immediately. The current frame is tuned for a head-and-shoulders crop so your face is centered and visible well.
